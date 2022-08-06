@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Kalam&display=swap');
+.post{
+    background-color: white;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    text-align: left;
+}
+.post__info > h3{
+    font-family: 'Merriweather', serif !important;
+}
+.post__header{
+    display: flex;
+    margin-bottom: 10px;
+}
+.post__email{
+    font-size: 12px;
+    color: gray;
+}
+.post__3dot{
+    padding: 5px;
+}
+.post__3dot:hover{
+    background-color: whitesmoke;
+    padding: 5px;
+    border-radius: 5px;
+}
+.post__info{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 10px;
+}
+.post__info > p{
+    font-size: 12px;
+    color: gray !important;
+}
+.post__body{
+    font-family: 'Kalam', cursive;
+    overflow-wrap: anyWhere;
+}
+.post__info > h2{
+    font-size: 15px;
+}
+.post__btns{
+    display: flex;
+    justify-content: space-evenly;
+}

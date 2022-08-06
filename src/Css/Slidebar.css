@@ -1,0 +1,92 @@
+.Slidebar {
+    position: sticky;
+    top: 80px;
+    flex: 0.2;
+    border-radius: 10px;
+    height: fit-content;
+}
+.Slidebar__Avtar {
+    margin-bottom: 10px;
+}
+.Slidebar__top {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid lightgray;
+    border-bottom: 0;
+    border-radius: 10px;
+    background-color: white;
+    padding-bottom: 10px;
+}
+.Slidebar__top > img {
+    margin-bottom: -20px;
+    margin-top: -1px;
+    width: 100%;
+    height: 60px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    object-fit: cover;
+}
+.Slidebar__top > h4 {
+    color: gray;
+    font-size: 12px;
+}
+.Slidebar__top > h2 {
+    font-size: 18px;
+}
+.Slidebar__starts {
+    padding: 10px;
+    border-top: 1px solid lightgray;
+    margin-bottom: 10px;
+    margin-top: 5px;
+    background-color: white;
+}
+.Slidebar__stat {
+    display: flex;
+    justify-content: space-between;
+    width: 14rem;
+}
+.Slidebar__stat:nth-child(2) {
+    margin-top: 10px;
+}
+.Slidebar__stat > p {
+    color: gray;
+    font-size: 13px;
+    font-weight: 600;
+}
+.Slidebar__statNumber {
+    font-weight: bold;
+    color: #0a66c2 !important;
+}
+.Slidebar__button {
+    text-align: left;
+    padding: 10px;
+    background-color: white;
+    border: 1px solid lightgray;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+.Slidebar__RecentIton {
+    display: flex;
+    font-size: 13px;
+    color: gray;
+    cursor: pointer;
+    font-weight: bolder;
+    padding: 5px;
+}
+.Slidebar__RecentIton:hover {
+    background-color: whitesmoke;
+    border-radius: 10px;
+    cursor: pointer;
+    color: black;
+}
+.Slidebar__hash {
+    margin-right: 10px;
+    margin-left: 5px;
+}
+.Slidebar__button > p{
+    font-size: 13px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+    font-weight: bold;
+}

@@ -1,0 +1,14 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  background-color: #f3f2ef;
+  min-height: 100vh;
+}
+a{
+  text-decoration: none;
+}
+.app__body {
+  display: flex;
+  margin-top: 7px;
+}
