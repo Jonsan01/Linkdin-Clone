@@ -1,12 +1,12 @@
 
-# 🧑‍💻 Linked Clone !! 🧑‍💻
-
+<h3 align="center"># 🧑‍💻 Linked Clone !! 🧑‍💻 </h3>
+ 
 ## Table of contents
 
  - [About Project](https://github.com/Jonsan01/Linkdin-Clone/blob/main/README.md#about-project)
- - [App Functionality](https://github.com/matiassingers/awesome-readme)
- - [App Demo](https://github.com/matiassingers/awesome-readme)
- - [App Link](https://github.com/matiassingers/awesome-readme)
+ - [App Functionality]([https://github.com/Jonsan01/Linkdin-Clone/blob/main/README.md#app-functionality)
+ - [App Demo](https://github.com/Jonsan01/Linkdin-Clone/blob/main/README.md#app-demo)
+ - [App Link](https://github.com/Jonsan01/Linkdin-Clone/blob/main/README.md#app-link)
 
 
 ## About Project
