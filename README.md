@@ -3,7 +3,7 @@
 
 ## Table of contents
 
- - [About Project](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - [About Project](https://github.com/Jonsan01/Linkdin-Clone/blob/main/README.md#about-project)
  - [App Functionality](https://github.com/matiassingers/awesome-readme)
  - [App Demo](https://github.com/matiassingers/awesome-readme)
  - [App Link](https://github.com/matiassingers/awesome-readme)
