@@ -1,6 +1,6 @@
 ## Table of contents
   
-  -> # About This Project
+  -> **##** About This Project
   ->
   ->
   ->
