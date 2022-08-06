@@ -24,7 +24,7 @@ Firebase is used for the backend
 
 Register
 
-<div style="boder:2px solid black">![signup](https://user-images.githubusercontent.com/110719803/183245289-730310ee-b470-412c-9c39-0e9461f73668.jpg)</div>
+![signup](https://user-images.githubusercontent.com/110719803/183245289-730310ee-b470-412c-9c39-0e9461f73668.jpg)
 
 Login
 
