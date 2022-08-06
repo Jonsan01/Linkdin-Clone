@@ -4,7 +4,7 @@
 ## Table of contents
 
  - [About Project](https://github.com/Jonsan01/Linkdin-Clone/blob/main/README.md#about-project)
- - [App Functionality]([https://github.com/Jonsan01/Linkdin-Clone/blob/main/README.md#app-functionality)
+ - [App Functionality](https://github.com/Jonsan01/Linkdin-Clone/blob/main/README.md#app-functionality)
  - [App Demo](https://github.com/Jonsan01/Linkdin-Clone/blob/main/README.md#app-demo)
  - [App Link](https://github.com/Jonsan01/Linkdin-Clone/blob/main/README.md#app-link)
 
