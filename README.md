@@ -1,5 +1,5 @@
 
-<h1 align="center"># 🧑‍💻 Linked Clone !! 🧑‍💻 </h1>
+<h1 align="center"> 🧑‍💻 Linked Clone !! 🧑‍💻 </h1>
  
 ## Table of contents
 
